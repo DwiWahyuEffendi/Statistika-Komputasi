@@ -2,19 +2,25 @@
 
 <h2>Fitur Program Statistika Komputasi</h2>
 <p>
-  <li>Menghitung Banyaknya Data</li>
-  <li>Menghitung Mean</li>
-  <li>Mencari Modus</li>
-  <li>Mencari Median</li>
-  <li>Menghitung Kuartil Atas</li>
-  <li>Menghitung Kuartil Bawah</li>
-  <li>Menghitung Varian</li>
-  <li>Menghitung Standar Deviasi</li>
-  <li>Menampilkan BarChart</li>
+  <li>Data Processing</li>
+  <li>Konversi Data Frame (Pandas)</li>
+  <li>Data Preparation - Normalization (SKLearn)</li>
+  <li>Data Preparation - Standardization (SKLearn)</li>
+  <li>Latihan SKLearn - Train Test Split</li>
+  <li>Latihan SKLearn - Cross Validation Split</li>
+  <li>Latihan SKLearn - Decision Tree</li>
+  <li>Latihan SKLearn - Linear Regression</li>
+  <li>Latihan SKLearn - Logistic Regression</li>
+  <li>Latihan SKLearn - K-Means</li>
+  <li>Latihan SKLearn - PCA</li>
+  <li>Latihan SKLearn - SVM Untuk Classification</li>
+  <li>Latihan SKLearn - SVR</li>
+  <li>Latihan SKLearn - With Grid Search</li>
+  <li>Submission Machine Learning</li>
 </p>
 
-<h2>Contributors</h2>
-  <table boder="1">
+<h2>Kontribusi</h2>
+  <table boder="2" cellspacing="0" cellpadding="5">
         <tr>
 		<td>NAMA</td>
 		<td>NPM</td>	
