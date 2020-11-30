@@ -1,6 +1,6 @@
-<h1>Laporan Tugas Mata Kuliah Statistika Komputasi</h1>
+<h1>Kumpulan Source Code Belajar Machine Learning</h1>
 
-<h2>Fitur Program Statistika Komputasi</h2>
+<h2>List Program Belajar Machine Learning</h2>
 <p>
   <li>Data Processing</li>
   <li>Konversi Data Frame (Pandas)</li>
